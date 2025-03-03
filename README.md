@@ -37,4 +37,4 @@
 
 ------
 
-<a href="https://www.linkedin.com/in/matiashernanzapatafleitas/" target="blank">matiaszapata.com /></a>
+<a href="https://matiaszapata.com/"target="blank"/></a>
