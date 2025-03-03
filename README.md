@@ -8,6 +8,16 @@
 🌱 I’m currently learning **WEB Development Full-Stack**
 <img align="right" alt="Coding" width="300" src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif">
 
+<h1>About Me! 😎</h1>
+
+- 🏫: I'm a grade 9, High School Student.
+- 🔭: I’m currently working on many small ML projects.
+- 🌱: I’m currently learning Neural Networks and Deep Learning. 🧠💻🤖
+- 🤔: I’m looking for help with anything I am currently learning! 😅
+- 💬: Ask me about Data Analysis, Visualization and Machine Learning algorithms. 📊📈🤖🧠
+- 😄  Pronouns: He/His
+- ⚡  Fun fact: I play Soccer, Tennis and the Piano! ⚽🎾🎹
+  
 
 <br>
 <h3 align="left">Languages and Tools:</h3>
