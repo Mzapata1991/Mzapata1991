@@ -34,4 +34,4 @@
 
 ------
 
-<a href="https://matiaszapata.com/" target="blank"><matiaszapata.com/></a>
+<a href="https://matiaszapata.com/" target="blank"><matiaszapata.com/</a>
