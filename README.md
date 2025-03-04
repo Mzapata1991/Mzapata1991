@@ -10,7 +10,6 @@
 
 <h1>About Me! 😎</h1>
 
-- 🏫: I'm prgrammer jr level.
 - 🔭: I’m currently working on many small ML projects.
 - 🌱: I’m currently learning Python. 
 - 🤔: I’m looking for help with anything I am currently learning! 
