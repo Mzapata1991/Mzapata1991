@@ -13,8 +13,8 @@
 - 🔭: I’m currently working on many small ML projects.
 - 🌱: I’m currently learning Python. 
 - 🤔: I’m looking for help with anything I am currently learning! 
-- 💬: Ask me about Data Analysis, Visualization and Machine Learning algorithms. 
-- ⚡  Fun fact: I play Soccer, Paddel and the Guitar! 
+- 💬: Ask me about Data Analysis, Digital Marketing and web Design. Tags, events and convertions.
+- ⚡  Fun fact: I play Soccer, Paddel and Guitar! 
   
 
 <br>
