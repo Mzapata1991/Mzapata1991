@@ -14,7 +14,7 @@
 - 🌱: I’m currently learning Python. 
 - 🤔: I’m looking for help with anything I am currently learning! 
 - 💬: Ask me about Data Analysis, Digital Marketing and web Design. Tags, events and convertions.
-- ⚡  Fun fact: I play Soccer, Paddel and Guitar! 
+- ⚡  Fun fact: I love Soccer, Surfing, Paddel and Guitar! 
   
 
 <br>
